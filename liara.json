@@ -8,6 +8,7 @@
       
     },
     "app": "deploy",
+    "port": 8000,
     "disks": [
       {
         "name": "static",
