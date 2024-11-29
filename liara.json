@@ -7,7 +7,7 @@
       "timezone": "Asia/Tehran"
       
     },
-    "app": "website",
+    "app": "deploy",
     "disks": [
       {
         "name": "static",
